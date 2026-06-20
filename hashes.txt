@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias que sanan, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Caricias que sanan, Vol. 2** (caricias-que-sanan-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:33:54.083582 | `v1` | `1301a2b63dffc75fe42b0f62c0506d56ffef7864d46b117d671dd51f82f0e238` | `b81fb85dd6515d66e7fb6ee7b75838eb6956229e39088176157611a6e175b1f5` | `2026-06-21_caricias-que-sanan-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -1,4 +1,4 @@
-# Caricias que sanan
+# Caricias que sanan, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Caricias que sanan |
+| **Title** | Caricias que sanan, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-que-sanan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Caricias que sanan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-que-sanan/) |
+| **Get License** | [Request Licensing for Caricias que sanan, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-que-sanan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche tú y yo vamo' a romper la ciudad, yeah
+> Tus labios me llaman en medio de la oscuridad
+> Con ese flow salvaje, mami, tú eres la deidad
+> Caricias que sanan y matan sin piedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `1301a2b63dffc75fe42b0f62c0506d56ffef7864d46b117d671dd51f82f0e238` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
